@@ -12,3 +12,5 @@ A small program for one-click translation of English papers in PDF format
 
 ## Usage
 
+![image](https://github.com/Wangkkkkkkkk/One-click-translation-of-English-papers/blob/main/Usage.png)
+
